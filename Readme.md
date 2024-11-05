@@ -26,7 +26,7 @@ To install and set up LLaVA-O1, you need to have Python 3.8+ and PyTorch install
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/LLaVA-O1.git
+git clone  https://github.com/White65534/LLaVA-O1.git
 cd LLaVA-O1
 
 # Create a virtual environment
